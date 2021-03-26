@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>logo-mark</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="global-header-white" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-60.000000, -25.000000)">
+        <g fill="#FFFFFF" id="logo-white">
+            <g transform="translate(60.000000, 25.000000)">
+                <g id="logo-mark-white">
+                    <path d="M0,42 L42,42 L42,0 L0,0 L0,42 Z M2.667,39.33342 L39.33384,39.33342 L39.33384,2.66658 L2.667,2.66658 L2.667,39.33342 Z M24.35454,13.33332 L21.04326,19.55688 L21.00756,19.62492 L20.97186,19.55688 L17.66016,13.33332 L15.33336,13.33332 L15.33336,23.3331 L17.61396,23.3331 L17.61396,18.3183 L17.61396,18.14904 L17.69082,18.2994 L20.27928,23.3331 L21.73584,23.3331 L24.30918,18.32964 L24.38646,18.17928 L24.38646,18.34854 L24.38646,23.3331 L26.66664,23.3331 L26.66664,13.33332 L24.35454,13.33332 Z M15.33336,28.66668 L26.66664,28.66668 L26.66664,25.99968 L15.33336,25.99968 L15.33336,28.66668 Z" id="logo-mark"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
